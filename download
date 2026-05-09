@@ -1,0 +1,12 @@
+# .streamlit/secrets.toml
+# NÃO faças commit deste ficheiro (está no .gitignore)
+#
+# OPÇÃO 1 — Groq (GRÁTIS, funciona em todo o mundo)
+# Obtém em: https://console.groq.com → API Keys
+GROQ_API_KEY = "SUBSTITUI_PELA_TUA_CHAVE_GROQ"
+
+# OPÇÃO 2 — OpenAI (a partir de $5)
+# OPENAI_API_KEY = "sk-..."
+
+# OPÇÃO 3 — Anthropic Claude (a partir de $5)
+# ANTHROPIC_API_KEY = "sk-ant-..."
