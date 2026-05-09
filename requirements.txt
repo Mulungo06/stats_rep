@@ -1,0 +1,9 @@
+streamlit>=1.35.0
+pandas>=2.2.0
+plotly>=5.22.0
+openpyxl>=3.1.2
+
+# Descomenta o provider que vais usar:
+google-generativeai>=0.8.0   # Google Gemini (GRÁTIS)
+openai>=1.30.0               # OpenAI
+anthropic>=0.28.0            # Anthropic Claude
